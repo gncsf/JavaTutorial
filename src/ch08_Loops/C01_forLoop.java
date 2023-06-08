@@ -17,6 +17,13 @@ public class C01_forLoop {
             System.out.print(i);
         }
 
+        // calismayan loop nasıl yapılır
+
+        for (int i = 1; i >10 ; i++) {
+
+            System.out.println("calismayan loop ");
+        }
+
 
 
 
