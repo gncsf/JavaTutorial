@@ -1,0 +1,1132 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a5c15839-e159-436c-bb9e-c7dde40a4126\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectCodeStyleSettingsMigration\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2QvmipsjKyoQdJ8UT12eOwxGfg4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a5c15839-e159-436c-bb9e-c7dde40a4126\" name=\"Changes\" comment=\"\" />\r\n      <created>1686242560311</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1686242560311</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/.idea/workspace.xml	(date 1686687168661)
+@@ -1,5 +1,8 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a5c15839-e159-436c-bb9e-c7dde40a4126" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -7,9 +10,35 @@
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="280f214f-c4d9-4e5a-831f-5941574513db" />
++        <option name="url" value="https://github.com/gncsf/JavaTutorial.git" />
++      </UrlAndAccount>
++    </option>
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/src/ch07_StringManipulations/C01_Concatination.java" root0="SKIP_HIGHLIGHTING" />
++  </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="CurrentFile" />
++  </component>
+   <component name="ProjectCodeStyleSettingsMigration">
+     <option name="version" value="2" />
+   </component>
+@@ -22,9 +51,94 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/javaTutorialTR"
++  },
++  "keyToStringList": {
++    "GitStage.ChangesTree.GroupingKeys": [
++      "directory",
++      "module",
++      "repository"
++    ]
+   }
+ }]]></component>
++  <component name="RunManager" selected="Application.C06_Task">
++    <configuration name="C01_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C01_break" />
++      <module name="JavaTutariall" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch09_Break_Continune.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="C02_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C02_continue" />
++      <module name="JavaTutariall" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch09_Break_Continune.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="C02_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L03_DoWhileLoop.C02_doWhileLoop" />
++      <module name="JavaTutariall" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch08_Loops.L03_DoWhileLoop.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="C03_AsalKontol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C03_AsalKontol" />
++      <module name="JavaTutariall" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch09_Break_Continune.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="C06_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C06_Task" />
++      <module name="JavaTutariall" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="ch09_Break_Continune.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.C06_Task" />
++        <item itemvalue="Application.C03_AsalKontol" />
++        <item itemvalue="Application.C02_continue" />
++        <item itemvalue="Application.C01_break" />
++        <item itemvalue="Application.C02_doWhileLoop" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -34,6 +148,114 @@
+       <option name="presentableId" value="Default" />
+       <updated>1686242560311</updated>
+     </task>
++    <task id="LOCAL-00001" summary="yeni">
++      <created>1686249236548</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1686249236549</updated>
++    </task>
++    <task id="LOCAL-00002" summary="yeni">
++      <created>1686250678704</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1686250678704</updated>
++    </task>
++    <task id="LOCAL-00003" summary="yeni">
++      <created>1686250834311</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1686250834311</updated>
++    </task>
++    <task id="LOCAL-00004" summary="yeni">
++      <created>1686255633985</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1686255633985</updated>
++    </task>
++    <task id="LOCAL-00005" summary="loops">
++      <created>1686670429172</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1686670429173</updated>
++    </task>
++    <task id="LOCAL-00006" summary="loops">
++      <created>1686686447719</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1686686447719</updated>
++    </task>
++    <task id="LOCAL-00007" summary="loops">
++      <created>1686686806282</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1686686806282</updated>
++    </task>
++    <task id="LOCAL-00008" summary="tasks">
++      <created>1686686873679</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1686686873679</updated>
++    </task>
++    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'">
++      <created>1686687153845</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1686687153845</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="OPEN_GENERIC_TABS">
++      <map>
++        <entry key="07f584c2-7510-4e68-b2b5-d1cd425f7780" value="TOOL_WINDOW" />
++      </map>
++    </option>
++    <option name="TAB_STATES">
++      <map>
++        <entry key="07f584c2-7510-4e68-b2b5-d1cd425f7780">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="HEAD" />
++                      </list>
++                    </value>
++                  </entry>
++                  <entry key="structure">
++                    <value>
++                      <list>
++                        <option value="dir:C:/Users/SEFA/IdeaProjects/JavaTutarial/src" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="yeni" />
++    <MESSAGE value="task" />
++    <MESSAGE value="loops" />
++    <MESSAGE value="tasks" />
++    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
++    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: src/ch09_Break_Continune/C02_continue.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C02_continue.java b/src/ch09_Break_Continune/C02_continue.java
+--- a/src/ch09_Break_Continune/C02_continue.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C02_continue.java	(date 1686680873412)
+@@ -1,0 +1,51 @@
++package ch09_Break_Continune;
++
++import java.util.Scanner;
++
++public class C02_continue {
++
++    public static void main(String[] args) {
++
++        /*
++        Program, bir loop içerisinde continue komutu ile karşılaşılırsa,
++        ondan sonraki komutlara
++        atlar ve loop'un bir sonraki değerinden devam eder.
++
++                */
++
++        // Task-> girilen bir mail hesabındaki ' ' karakterlerini handle ederek print eden code cerate ediniz.
++
++        Scanner input= new Scanner(System.in);
++        System.out.println(" email adresinizi girin:");
++        String mail=input.nextLine();
++
++        for (int i=0; i< mail.length(); i++) {
++            if (mail.charAt(i)==' ') {
++                continue;
++
++            }
++            System.out.print(mail.charAt(i));
++        }
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/ch08_Loops/L01_ForLoop/C01_forLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ch08_Loops;\r\n\r\npublic class C01_forLoop {\r\n    public static void main(String[] args) {\r\n\r\n        // 33 defa java iyidir yazdır\r\n\r\n        for (int i = 0; i <33 ; i++) {\r\n\r\n            System.out.println(\"Java iyidir.\");\r\n        }\r\n\r\n        // Task    2 basamaklı tek sayıları yan yana print eden code create ediniz -> 11,13,15...99\r\n\r\n        for (int i = 11; i <100 ; i+=2) {\r\n\r\n            System.out.print(i);\r\n        }\r\n\r\n        // calismayan loop nasıl yapılır\r\n\r\n        for (int i = 1; i >10 ; i++) {\r\n\r\n            System.out.println(\"calismayan loop \");\r\n        }\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L01_ForLoop/C01_forLoop.java b/src/ch08_Loops/L01_ForLoop/C01_forLoop.java
+--- a/src/ch08_Loops/L01_ForLoop/C01_forLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L01_ForLoop/C01_forLoop.java	(date 1686664105803)
+@@ -1,4 +1,4 @@
+-package ch08_Loops;
++package ch08_Loops.L01_ForLoop;
+ 
+ public class C01_forLoop {
+     public static void main(String[] args) {
+Index: src/ch09_Break_Continune/C07_Task.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ch09_Break_Continune;\r\n\r\npublic class C07_Task {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C07_Task.java b/src/ch09_Break_Continune/C07_Task.java
+--- a/src/ch09_Break_Continune/C07_Task.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C07_Task.java	(date 1686686180965)
+@@ -1,4 +1,47 @@
+ package ch09_Break_Continune;
+ 
++import java.util.Scanner;
++
+ public class C07_Task {
++    public static void main(String[] args) {
++
++        // task -> girilen bir ifadedeki c karakterine kadar a karakter sayısını print eden code create ediniz.
++
++        Scanner input = new Scanner(System.in);
++        System.out.print("Bir ifade girin: ");
++        String ifade = input.nextLine();
++
++        int count=0;
++
++        for (int i = 0; i < ifade.length(); i++) {
++            char character = ifade.charAt(i);
++            if (character == 'c') {
++                break;
++            }
++            if (character == 'a') {
++                count++;
++            }
++        }
++
++        System.out.println("'c' karakterine kadar olan 'a' karakter sayısı: " + count);
++
++        input.close();
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
+ }
+Index: src/ch08_Loops/L01_ForLoop/C02_forLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ch08_Loops;\r\n\r\nimport java.util.Scanner;\r\n\r\npublic class C02_forLoop {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"bir sayi giriniz\");\r\n        Scanner input = new Scanner(System.in);\r\n        int sayi = input.nextInt();\r\n\r\n\r\n\r\n\r\n            if ( sayi<0) {\r\n                System.out.println(\"pozitif bir sayi girmelisin\");\r\n            }else {\r\n                for (int i= sayi; i<100 ; i++) {\r\n                    if ( i %4 ==0)  {\r\n\r\n                        System.out.println(i);\r\n                    }\r\n                }\r\n\r\n            }\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L01_ForLoop/C02_forLoop.java b/src/ch08_Loops/L01_ForLoop/C02_forLoop.java
+--- a/src/ch08_Loops/L01_ForLoop/C02_forLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L01_ForLoop/C02_forLoop.java	(date 1686664105674)
+@@ -1,4 +1,4 @@
+-package ch08_Loops;
++package ch08_Loops.L01_ForLoop;
+ 
+ import java.util.Scanner;
+ 
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>### IntelliJ IDEA ###\r\nout/\r\n!**/src/main/**/out/\r\n!**/src/test/**/out/\r\n\r\n### Eclipse ###\r\n.apt_generated\r\n.classpath\r\n.factorypath\r\n.project\r\n.settings\r\n.springBeans\r\n.sts4-cache\r\nbin/\r\n!**/src/main/**/bin/\r\n!**/src/test/**/bin/\r\n\r\n### NetBeans ###\r\n/nbproject/private/\r\n/nbbuild/\r\n/dist/\r\n/nbdist/\r\n/.nb-gradle/\r\n\r\n### VS Code ###\r\n.vscode/\r\n\r\n### Mac OS ###\r\n.DS_Store
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/.gitignore	(date 1686255375098)
+@@ -26,4 +26,5 @@
+ .vscode/
+ 
+ ### Mac OS ###
+-.DS_Store
+\ No newline at end of file
++.DS_Store
++/src/ch01_variables/
+Index: src/ch09_Break_Continune/C01_break.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package c09_Break_Continune;public class C01_break {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C01_break.java b/src/ch09_Break_Continune/C01_break.java
+--- a/src/ch09_Break_Continune/C01_break.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C01_break.java	(date 1686679906743)
+@@ -1,2 +1,50 @@
+-package c09_Break_Continune;public class C01_break {
++package ch09_Break_Continune;
++
++import java.util.Scanner;
++
++public class C01_break {
++    public static void main(String[] args) {
++
++        /*
++        break loop'u istenen yerden sonlandırmak için döngüyü kontrol edebiliriz.Bir loop'u, loop'un koşul bölümüne bağlı
++        kalmaksızın sona erdirmek için break komutu kullanılır. break komutu loop'a bağlı kod bloğunun
++        herhangi bir işlem satırında yer alabilir. Program kod bloğunda break komutu'nu görür görmez,
++        loop başlangıç koşulu sağlanmış olsa bile, loop'dan çıkar ve loop'dan sonra gelen ilk işlem
++        satırından çalışmasına devam eder. İç içe(nested) looplarda break komutu kullanıldığında sadece
++        içinde kullanıldığı loop'dan çıkışı sağlar:
++
++
++        temelde döngüden atlamak için kullanılır, çoğunlukla if-else deyimi ile kullanılır
++         */
++
++        // Task -> girilen bir mail hesabının @ sembolune kadar olan karakterlerni print eden code create ediniz.
++
++        Scanner input= new Scanner(System.in);
++        System.out.println(" email adresinizi girin:");
++        String mail=input.nextLine();
++
++        for (int i=0; i< mail.length(); i++) {
++            if (mail.charAt(i)=='@') {
++                break;
++
++            }
++            System.out.print(mail.charAt(i));
++        }
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
+ }
+Index: src/ch08_Loops/L03_DoWhileLoop/C02_doWhileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L03_DoWhileLoop/C02_doWhileLoop.java b/src/ch08_Loops/L03_DoWhileLoop/C02_doWhileLoop.java
+--- a/src/ch08_Loops/L03_DoWhileLoop/C02_doWhileLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L03_DoWhileLoop/C02_doWhileLoop.java	(date 1686669902480)
+@@ -1,0 +1,42 @@
++package ch08_Loops.L03_DoWhileLoop;
++
++import java.util.Scanner;
++
++public class C02_doWhileLoop {
++
++    public static void main(String[] args) {
++
++        //task-> girilen sayı 17 den kucuk ise "kazandınız" print eden  değilse ise sayı girişi isteyen
++        //  code create ediniz...
++        Scanner input = new Scanner(System.in);
++        System.out.println("bir tamsayi yazin");
++        int sayi ;
++
++        do {
++            System.out.println("sayi gir");
++            sayi=input.nextInt();
++
++        }while (sayi>=17);
++
++        System.out.println("kazandiniz");
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/ch08_Loops/L02_WhileLoop/C01_whileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L02_WhileLoop/C01_whileLoop.java b/src/ch08_Loops/L02_WhileLoop/C01_whileLoop.java
+--- a/src/ch08_Loops/L02_WhileLoop/C01_whileLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L02_WhileLoop/C01_whileLoop.java	(date 1686667463358)
+@@ -1,0 +1,110 @@
++package ch08_Loops.L02_WhileLoop;
++
++import java.util.Scanner;
++
++public class C01_whileLoop {
++
++    public static void main(String[] args) {
++
++        // task01-> 11 den 20'ye kadar olan tamasayıları print eden code create ediniz...
++
++        System.out.println("*****for ile cozum******");
++
++        for (int i =11; i <20 ; i++) {
++            System.out.print(i + " ");
++        }
++        System.out.println();
++
++        System.out.println("**** whilw loop ile cozum ****");
++
++        int sayi = 11;
++
++        while (sayi<20) {
++            System.out.print(sayi+ " ");
++            sayi++;
++        }
++
++        System.out.println();
++
++        //task02-> 7 kere javaCAN print eden code create ediniz...
++
++        int i =0;
++
++        while (i<7) {
++            System.out.println("javaCan");
++            i++;
++
++        }
++
++        // task03-> 2 basamaklı tek sayıları yanyana print eden code create ediniz
++
++        int a =11;
++
++        while ( a<100) {
++                System.out.print(a +" ");
++                a+=2;
++
++        }
++        System.out.println();
++        System.out.println("diğer cozum");
++
++        int b =11;
++
++        while ( b<100) {
++           if( b%2==1) {
++               System.out.print(b +" ");
++           }
++            b+=2;
++        }
++        System.out.println();
++
++        // task04-> girilen metni while loop ile  tersden print eden code create ediniz
++
++        Scanner input = new Scanner(System.in);
++        System.out.println("bir seyler yazin");
++        String cumle = input.nextLine();
++
++        int uzunluk = cumle.length() -1;
++        while (uzunluk >= 0) {
++            System.out.println(cumle.charAt(uzunluk));
++            uzunluk--;
++
++        }
++
++        // task-> girilen tamsayını pozitif tam bolen sayısını print eden code create ediniz...
++        // 20 -> 1,2,4,5,10,20: 20'nin 6 tane tam böleni var
++        // 30 -> 1,2,3,5,6,10,15,30: 30'nin 8 tane tam böleni var
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/ch09_Break_Continune/C06_Task.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C06_Task.java b/src/ch09_Break_Continune/C06_Task.java
+--- a/src/ch09_Break_Continune/C06_Task.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C06_Task.java	(date 1686685447030)
+@@ -1,0 +1,30 @@
++package ch09_Break_Continune;
++
++import java.util.Scanner;
++
++public class C06_Task {
++
++    public static void main(String[] args) {
++
++        // Task-> girilen 7 tamsayının 10 ile 20 arasındakileri hariç toplamını print eden code create ediniz.
++
++        Scanner scanner = new Scanner(System.in);
++        int sum = 0;
++        int count = 0;
++
++        while (count < 7) {
++            System.out.print("Bir tamsayı girin: ");
++            int num = scanner.nextInt();
++            if (num >= 10 && num <= 20){
++                count++;
++                continue;
++            }
++            sum += num;
++            count++;
++        }
++
++        System.out.println("sayının toplamı = " + sum);
++
++
++    }
++}
+Index: src/ch08_Loops/L01_ForLoop/C05_PatternQuestion.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ch08_Loops;\r\n\r\npublic class C05_PatternQuestion {\r\n\r\n    public static void main(String[] args) {\r\n\r\n        /*\r\n        A\r\n        A B\r\n        A B C\r\n        A B C D\r\n        A B C D E\r\n        A B C D E F\r\n        şeklini yazdırınız.  65=A'nın ascıı değeri\r\n\r\n                */\r\n\r\n        int n = 65;\r\n\r\n        for (int i = 0; i <6; i++) {\r\n\r\n            for (int j = 0; j <= i; j++) {\r\n                System.out.print((char) (n + j) + \" \");\r\n            }\r\n\r\n            System.out.println();  // Satır sonu\r\n\r\n        }\r\n\r\n        for (int i = 1; i <= 6; i++) {\r\n            for (int j = 1; j <= i; j++) {\r\n                System.out.print(\"*\");\r\n            }\r\n            System.out.println();\r\n        }\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L01_ForLoop/C05_PatternQuestion.java b/src/ch08_Loops/L01_ForLoop/C05_PatternQuestion.java
+--- a/src/ch08_Loops/L01_ForLoop/C05_PatternQuestion.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L01_ForLoop/C05_PatternQuestion.java	(date 1686664105712)
+@@ -1,4 +1,4 @@
+-package ch08_Loops;
++package ch08_Loops.L01_ForLoop;
+ 
+ public class C05_PatternQuestion {
+ 
+Index: src/ch08_Loops/L01_ForLoop/C04_forLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ch08_Loops;\r\n\r\npublic class C04_forLoop {\r\n\r\n    public static void main(String[] args) {\r\n\r\n       /*\r\n        Interview Question\r\n        Girilen  100’den kucuk bir tamsayi için\r\n        1’den baslayarak girilen sayiya kadar tum sayilari print eden ama;\r\n        1  - Sayi 3’un kati ise sayi yerine \"Java\" yazdirin.\r\n        2  - Sayi 5’in kati ise sayi yerine \"CAN'dır\" yazdirin.\r\n        3  - Sayi hem 3’un hem 5’in kati ise sayi yerine \"JavaCAN\" print eden code create ediniz\r\n                */\r\n\r\n        for (int i = 0; i <100 ;i++) {\r\n\r\n            if (i %3==0 && i %5==0) {\r\n\r\n                System.out.println(\"JavaCan\");\r\n\r\n            }else if (i %5==0) {\r\n\r\n                System.out.println(\"Can\");\r\n\r\n            }else if ( i%3==0) {\r\n\r\n                System.out.println(\"java\");\r\n\r\n            }else System.out.println(i);\r\n        }\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L01_ForLoop/C04_forLoop.java b/src/ch08_Loops/L01_ForLoop/C04_forLoop.java
+--- a/src/ch08_Loops/L01_ForLoop/C04_forLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L01_ForLoop/C04_forLoop.java	(date 1686664106083)
+@@ -1,4 +1,4 @@
+-package ch08_Loops;
++package ch08_Loops.L01_ForLoop;
+ 
+ public class C04_forLoop {
+ 
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+--- a/.idea/uiDesigner.xml	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/.idea/uiDesigner.xml	(date 1686664106579)
+@@ -1,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/ch09_Break_Continune/C04_PinControl.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C04_PinControl.java b/src/ch09_Break_Continune/C04_PinControl.java
+--- a/src/ch09_Break_Continune/C04_PinControl.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C04_PinControl.java	(date 1686683433981)
+@@ -1,0 +1,34 @@
++package ch09_Break_Continune;
++
++import java.util.Scanner;
++
++public class C04_PinControl {
++    public static void main(String[] args) {
++
++        // Task -> String data type bir pin datasının 3 giriş hakkında kontrol eden code create ediniz.
++
++        Scanner input1 = new Scanner(System.in);
++        int girisHakki = 3;
++        String sifre = "gnc12345";
++
++        while (true) {
++            System.out.println(" pin giriniz:");
++            String pin = input1.nextLine();
++            if (sifre.equals(pin)) {
++                System.out.println("sifre eslesti");
++                break;
++            } else {
++                System.out.println("sifre yanlis tekrar dene");
++                girisHakki--;
++                System.out.println("kalan hakkın = " + girisHakki);
++            }
++
++            if (girisHakki == 0) {
++                System.out.println("bloke oldun");
++                break;
++            }
++
++
++        }
++    }
++}
+Index: src/ch08_Loops/L02_WhileLoop/C02_whileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L02_WhileLoop/C02_whileLoop.java b/src/ch08_Loops/L02_WhileLoop/C02_whileLoop.java
+--- a/src/ch08_Loops/L02_WhileLoop/C02_whileLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L02_WhileLoop/C02_whileLoop.java	(date 1686668092263)
+@@ -1,0 +1,40 @@
++package ch08_Loops.L02_WhileLoop;
++
++import java.util.Scanner;
++
++public class C02_whileLoop {
++
++    public static void main(String[] args) {
++
++
++        Scanner input = new Scanner(System.in);
++        System.out.println("bir tamsayi yazin");
++        int sayi = input.nextInt();
++
++        int bolen =1;
++        int bolenSayısı= 0;
++
++        while (bolen<=sayi) {
++            if (sayi % bolen == 0) {
++                bolenSayısı++;
++
++            }
++            bolen++;
++        }
++        System.out.println(bolenSayısı);
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/ch08_Loops/L03_DoWhileLoop/C01_doWhileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L03_DoWhileLoop/C01_doWhileLoop.java b/src/ch08_Loops/L03_DoWhileLoop/C01_doWhileLoop.java
+--- a/src/ch08_Loops/L03_DoWhileLoop/C01_doWhileLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L03_DoWhileLoop/C01_doWhileLoop.java	(date 1686669608313)
+@@ -1,0 +1,44 @@
++package ch08_Loops.L03_DoWhileLoop;
++
++public class C01_doWhileLoop {
++
++    public static void main(String[] args) {
++
++           /*
++        While loop-> önce sart konrol edilir eğer  sart sonucu true alınırsa body action çalışır
++        do-While loop-> önce body action çalışır sonra şart kontrol edilir.Sart true ise döngü devam eder.
++        sart false ise döngü lırılır ve döngüden sonraki ilk satır çalışır.
++        do-While loop->  game app. de daha çok kullanılır.
++        Trick: while loop sart sağlanmazsa hiç çaılşmayabilir ama do-while sart sağalasın sağlamasın
++        en az bir kez çalışır..
++         */
++
++        //yas 18 den buyukse girebilsin degilse giremesin
++        int yas = 15;
++
++        while (yas > 18 ){
++            System.out.println("girebilirsin while");
++            yas --;
++        }
++
++        do {
++            System.out.println("girebilirsinin do while");
++            yas--;
++        }while (yas > 18);
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
+Index: src/ch09_Break_Continune/C03_AsalKontol.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C03_AsalKontol.java b/src/ch09_Break_Continune/C03_AsalKontol.java
+--- a/src/ch09_Break_Continune/C03_AsalKontol.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C03_AsalKontol.java	(date 1686683821185)
+@@ -1,0 +1,53 @@
++package ch09_Break_Continune;
++
++import java.util.Scanner;
++
++public class C03_AsalKontol {
++    public static void main(String[] args) {
++
++        //task-> girilen tamsayının asal olmasını kontrol eden code create ediniz
++
++        Scanner input = new Scanner(System.in);
++        System.out.println("bir tamsayi yazin");
++        int sayi = input.nextInt();
++        boolean asalMi = true;
++
++
++        for (int i = 2; i < sayi; i++) {
++
++            if (sayi % i == 0) {
++                System.out.println(sayi + "sayı asal degil");
++                asalMi = false;
++                break;
++            } else if (sayi % i == 1) {
++
++            }
++        }
++
++        if (asalMi && sayi != 1) {
++            System.out.println(sayi + " sayisi asal sayidir");
++        } else System.out.println("asal degil");
++
++
++    }
++}
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Index: src/ch08_Loops/L01_ForLoop/C03_nested_forLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ch08_Loops;\r\n\r\npublic class C03_nested_forLoop {\r\n\r\n    public static void main(String[] args) {\r\n\r\n                /*\r\n        eger bir döngünün baody'sinde başka  bir döngü bulunuyorsa bu tür döngülere nested-loop->\r\n        içiçe döngü denir\r\n        İç döngü dış döngünün her adımda tekrar çalışır.\r\n        içiçe döngülerde en içteki döngü en önce çalışır..\r\n         */\r\n\r\n        for (int kat = 0; kat <=10 ; kat++) {\r\n\r\n            System.out.println(\"suan bulundugun kat = \" + kat);\r\n\r\n            for (int daire = 1 ; daire <=4 ; daire++) {\r\n\r\n                System.out.println(\"daire = \" + daire );\r\n\r\n\r\n            }\r\n        }\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch08_Loops/L01_ForLoop/C03_nested_forLoop.java b/src/ch08_Loops/L01_ForLoop/C03_nested_forLoop.java
+--- a/src/ch08_Loops/L01_ForLoop/C03_nested_forLoop.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch08_Loops/L01_ForLoop/C03_nested_forLoop.java	(date 1686664106045)
+@@ -1,4 +1,4 @@
+-package ch08_Loops;
++package ch08_Loops.L01_ForLoop;
+ 
+ public class C03_nested_forLoop {
+ 
+Index: src/ch09_Break_Continune/C05_OCA_Java.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/ch09_Break_Continune/C05_OCA_Java.java b/src/ch09_Break_Continune/C05_OCA_Java.java
+--- a/src/ch09_Break_Continune/C05_OCA_Java.java	(revision 1e7e47bc2b876c662aa55e74ece489ed3c983d0b)
++++ b/src/ch09_Break_Continune/C05_OCA_Java.java	(date 1686684846286)
+@@ -1,0 +1,28 @@
++package ch09_Break_Continune;
++
++public class C05_OCA_Java {
++
++    public static void main(String[] args) {
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++    }
++}
