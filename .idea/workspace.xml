@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5c15839-e159-436c-bb9e-c7dde40a4126" name="Changes" comment="" />
+    <list default="true" id="a5c15839-e159-436c-bb9e-c7dde40a4126" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C05_CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C05_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C05_SwitchCaseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C06_RecursiveMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C07_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C01_methodCretion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C01_methodCretion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C02_methodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C02_methodCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C03_methodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C03_methodCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C04_methodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C04_methodOverloading.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +62,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2QvmipsjKyoQdJ8UT12eOwxGfg4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,7 +74,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/AfterClassStudy"
+    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/JavaTutarial"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -71,13 +84,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C06_Task">
-    <configuration name="C01_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C01_break" />
+  <component name="RunManager" selected="Application.C08_AtmProject">
+    <configuration name="C03_methodCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10_Method_Cretion.C03_methodCreation" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09_Break_Continune.*" />
+          <option name="PATTERN" value="ch10_Method_Cretion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C02_continue" />
+    <configuration name="C04_methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10_Method_Cretion.C04_methodOverloading" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09_Break_Continune.*" />
+          <option name="PATTERN" value="ch10_Method_Cretion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_doWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08_Loops.L03_DoWhileLoop.C02_doWhileLoop" />
+    <configuration name="C05_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10_Method_Cretion.C05_Runner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08_Loops.L03_DoWhileLoop.*" />
+          <option name="PATTERN" value="ch10_Method_Cretion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_AsalKontol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C03_AsalKontol" />
+    <configuration name="C06_RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10_Method_Cretion.C06_RecursiveMethod" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09_Break_Continune.*" />
+          <option name="PATTERN" value="ch10_Method_Cretion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09_Break_Continune.C06_Task" />
+    <configuration name="C08_AtmProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10_Method_Cretion.C08_AtmProject" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09_Break_Continune.*" />
+          <option name="PATTERN" value="ch10_Method_Cretion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_Task" />
-        <item itemvalue="Application.C03_AsalKontol" />
-        <item itemvalue="Application.C02_continue" />
-        <item itemvalue="Application.C01_break" />
-        <item itemvalue="Application.C02_doWhileLoop" />
+        <item itemvalue="Application.C08_AtmProject" />
+        <item itemvalue="Application.C05_Runner" />
+        <item itemvalue="Application.C06_RecursiveMethod" />
+        <item itemvalue="Application.C04_methodOverloading" />
+        <item itemvalue="Application.C03_methodCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686687831014</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="creation">
+      <created>1686774188327</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686774188327</updated>
+    </task>
+    <task id="LOCAL-00013" summary="creation">
+      <created>1687196652929</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687196652929</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -295,6 +322,7 @@
     <MESSAGE value="tasks" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="tasks1" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks1" />
+    <MESSAGE value="creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation" />
   </component>
 </project>
