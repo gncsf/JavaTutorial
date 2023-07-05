@@ -74,7 +74,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/tasks1"
+    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/javaTutorialTR"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -90,13 +90,13 @@
       <recent name="ch11_Debugger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C14_LİstConvertToArray">
-    <configuration name="C10_sort_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.C10_sort_reverse" />
+  <component name="RunManager" selected="Application.C01_DateTime">
+    <configuration name="C01_DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C01_DateTime" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.C11_contains" />
+    <configuration name="C01_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.C01_Varargs" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.*" />
+          <option name="PATTERN" value="ch15_Varargs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12_remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.C12_remove" />
+    <configuration name="C02_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.C02_Varargs" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.*" />
+          <option name="PATTERN" value="ch15_Varargs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C13_replaceAll_fill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.C13_replaceAll_fill" />
+    <configuration name="C03_forEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.C03_forEachLoop" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.*" />
+          <option name="PATTERN" value="ch14_ForEachLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14_LİstConvertToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13_ArrayList.C14_LİstConvertToArray" />
+    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.Task02" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13_ArrayList.*" />
+          <option name="PATTERN" value="ch15_Varargs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C14_LİstConvertToArray" />
-        <item itemvalue="Application.C13_replaceAll_fill" />
-        <item itemvalue="Application.C12_remove" />
-        <item itemvalue="Application.C11_contains" />
-        <item itemvalue="Application.C10_sort_reverse" />
+        <item itemvalue="Application.C01_DateTime" />
+        <item itemvalue="Application.C02_Varargs" />
+        <item itemvalue="Application.Task02" />
+        <item itemvalue="Application.C03_forEachLoop" />
+        <item itemvalue="Application.C01_Varargs" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687377804029</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="chapter13">
+      <created>1688492305363</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688492305363</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -360,7 +367,8 @@
     <MESSAGE value="creation1" />
     <MESSAGE value="chapter11" />
     <MESSAGE value="chapter12" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter12" />
+    <MESSAGE value="chapter13" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
