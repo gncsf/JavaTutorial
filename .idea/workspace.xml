@@ -74,7 +74,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/javaTutorialTR"
+    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/JavaTutarial"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -90,9 +90,9 @@
       <recent name="ch11_Debugger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_DateTime">
-    <configuration name="C01_DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C01_DateTime" />
+  <component name="RunManager" selected="Application.C11_OCA03">
+    <configuration name="C05_ZonedDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C05_ZonedDateTime" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.C01_Varargs" />
+    <configuration name="C06_Duration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C06_Duration" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15_Varargs.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.C02_Varargs" />
+    <configuration name="C07_ComparingDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C07_ComparingDateTime" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15_Varargs.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_forEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14_ForEachLoop.C03_forEachLoop" />
+    <configuration name="C08_Period" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C08_Period" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14_ForEachLoop.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15_Varargs.Task02" />
+    <configuration name="C11_OCA03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C11_OCA03" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15_Varargs.*" />
+          <option name="PATTERN" value="ch16_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_DateTime" />
-        <item itemvalue="Application.C02_Varargs" />
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.C03_forEachLoop" />
-        <item itemvalue="Application.C01_Varargs" />
+        <item itemvalue="Application.C11_OCA03" />
+        <item itemvalue="Application.C08_Period" />
+        <item itemvalue="Application.C07_ComparingDateTime" />
+        <item itemvalue="Application.C06_Duration" />
+        <item itemvalue="Application.C05_ZonedDateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688492305363</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="chapter15,16">
+      <created>1688588036668</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688588036668</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -368,7 +375,8 @@
     <MESSAGE value="chapter11" />
     <MESSAGE value="chapter12" />
     <MESSAGE value="chapter13" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter13" />
+    <MESSAGE value="chapter15,16" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter15,16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
