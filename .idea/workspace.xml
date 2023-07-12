@@ -69,34 +69,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/JavaTutarial"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SEFA/IdeaProjects/javaTutorialTR&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch10_Method_Cretion" />
       <recent name="ch11_Debugger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C11_OCA03">
-    <configuration name="C05_ZonedDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C05_ZonedDateTime" />
+  <component name="RunManager" selected="Application.C04_TeacherRunner">
+    <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C01_Constructor" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="PATTERN" value="ch20_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_Duration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C06_Duration" />
+    <configuration name="C02_Arac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C02_Arac" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="PATTERN" value="ch20_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_ComparingDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C07_ComparingDateTime" />
+    <configuration name="C02_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19_StringBuilder.C02_StringBuilder" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="PATTERN" value="ch19_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_Period" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C08_Period" />
+    <configuration name="C03_StudentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C03_StudentRunner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="PATTERN" value="ch20_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11_OCA03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16_DateTime.C11_OCA03" />
+    <configuration name="C04_TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C04_TeacherRunner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16_DateTime.*" />
+          <option name="PATTERN" value="ch20_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C11_OCA03" />
-        <item itemvalue="Application.C08_Period" />
-        <item itemvalue="Application.C07_ComparingDateTime" />
-        <item itemvalue="Application.C06_Duration" />
-        <item itemvalue="Application.C05_ZonedDateTime" />
+        <item itemvalue="Application.C04_TeacherRunner" />
+        <item itemvalue="Application.C03_StudentRunner" />
+        <item itemvalue="Application.C02_Arac" />
+        <item itemvalue="Application.C01_Constructor" />
+        <item itemvalue="Application.C02_StringBuilder" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688588036668</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="chapter16">
+      <created>1688673160459</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1688673160459</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -376,7 +383,8 @@
     <MESSAGE value="chapter12" />
     <MESSAGE value="chapter13" />
     <MESSAGE value="chapter15,16" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter15,16" />
+    <MESSAGE value="chapter16" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
