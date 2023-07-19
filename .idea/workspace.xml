@@ -5,16 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5c15839-e159-436c-bb9e-c7dde40a4126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C05_CRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C05_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C05_SwitchCaseMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C06_RecursiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C07_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21_StaticKeyword/C01_Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21_StaticKeyword/C01_OgretmenRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21_StaticKeyword/C02_StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21_StaticKeyword/C03_StaticKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch21_StaticKeyword/C04_OCAType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C01_InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C02_StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C03_LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch22_Scope/C04_LoopVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch23_AccessModifier/C01_AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch23_AccessModifier/C02_AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation01/C01_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation01/C02_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation02/UserRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation03/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation03/AracRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch24_Encapsulation/encapsulation4/BMI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C01_methodCretion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C01_methodCretion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C02_methodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C02_methodCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C03_methodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C03_methodCreation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch10_Method_Cretion/C04_methodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10_Method_Cretion/C04_methodOverloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +87,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/JavaTutarial"
+    "last_opened_file_path": "C:/Users/SEFA/IdeaProjects/JavaTutarial/src/ch25_Inheritance/overriding"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -86,18 +98,26 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SEFA\IdeaProjects\JavaTutarial\src\ch25_Inheritance\overriding" />
+      <recent name="C:\Users\SEFA\IdeaProjects\JavaTutarial\src\ch25_Inheritance" />
+      <recent name="C:\Users\SEFA\IdeaProjects\JavaTutarial\src\ch24_Encapsulation" />
+      <recent name="C:\Users\SEFA\IdeaProjects\JavaTutarial\src\ch22_Scope" />
+      <recent name="C:\Users\SEFA\IdeaProjects\JavaTutarial\src\ch21_StaticKeyword" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch25_Inheritance.inheritance" />
       <recent name="ch10_Method_Cretion" />
       <recent name="ch11_Debugger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C04_TeacherRunner">
-    <configuration name="C01_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C01_Constructor" />
+  <component name="RunManager" selected="Application.ch25_Inheritance.overriding.Runner">
+    <configuration name="AracRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.encapsulation03.AracRunner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch20_Constructor.*" />
+          <option name="PATTERN" value="ch24_Encapsulation.encapsulation03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Arac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C02_Arac" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.encapsulation4.Runner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch20_Constructor.*" />
+          <option name="PATTERN" value="ch24_Encapsulation.encapsulation4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19_StringBuilder.C02_StringBuilder" />
+    <configuration name="UserRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch24_Encapsulation.encapsulation02.UserRunner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch19_StringBuilder.*" />
+          <option name="PATTERN" value="ch24_Encapsulation.encapsulation02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_StudentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C03_StudentRunner" />
+    <configuration name="ch25_Inheritance.inheritance.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch25_Inheritance.inheritance.Runner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch20_Constructor.*" />
+          <option name="PATTERN" value="ch25_Inheritance.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_TeacherRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch20_Constructor.C04_TeacherRunner" />
+    <configuration name="ch25_Inheritance.overriding.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch25_Inheritance.overriding.Runner" />
       <module name="JavaTutariall" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch20_Constructor.*" />
+          <option name="PATTERN" value="ch25_Inheritance.overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C04_TeacherRunner" />
-        <item itemvalue="Application.C03_StudentRunner" />
-        <item itemvalue="Application.C02_Arac" />
-        <item itemvalue="Application.C01_Constructor" />
-        <item itemvalue="Application.C02_StringBuilder" />
+        <item itemvalue="Application.ch25_Inheritance.overriding.Runner" />
+        <item itemvalue="Application.ch25_Inheritance.inheritance.Runner" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.AracRunner" />
+        <item itemvalue="Application.UserRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689184263933</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="chapter20">
+      <created>1689357220150</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689357220150</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
