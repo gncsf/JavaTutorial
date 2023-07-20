@@ -10,4 +10,31 @@ public class Pet extends Animal{
     public void uyuma(){
         System.out.println("uygun ortamlarda uyutun");
     }
+
+   // @Override
+  //  protected void hareket() {   CTE
+  //      super.hareket();
+  //  }
+
+
+    @Override
+    public void icme() {
+        System.out.println("overriding icme methodu pet class dan");
+    }
+    private void privateMethod (){
+        System.out.println("pet class in private methodu");
+    }
+
+    int number =22;
+    int age =101;
+    int numberOfPets =201;
+
+    @Override
+    public String toString() {
+        return "Pet{" +
+                "number=" + number +
+                ", age=" + age +
+                ", numberOfPets=" + numberOfPets +
+                '}';
+    }
 }

@@ -9,7 +9,7 @@ public class Animal {// grandparent
     public void yeme(){
         System.out.println("hayvan yer ");
     }
-    public void icme(){
+    protected void icme(){
         System.out.println("hayvan icer ");
     }
     public void hareket(){
