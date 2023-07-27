@@ -8,7 +8,7 @@ public class C01_AccessModifier {
              "default" ile "package private" es anlamlidir.
        4     4) public class member'lara herkes her yerden erişebilir.(farkli java projesi disinda).
        3      5) "protected" class member'lara ayni package'dan erişilebilir. Farkli package
-            için : a)Child class erişebilir.     b)Child class degil ise erişilemez.
+            için : a)F01_Child class erişebilir.     b)F01_Child class degil ise erişilemez.
              6) Class'lar için  sadece "public" ve "default" access modifier kullanilir.
              Class tanımlanırken "private" veya "protected" access modifier kullanilmaz.
     */

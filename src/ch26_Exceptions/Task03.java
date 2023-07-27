@@ -2,7 +2,7 @@ package ch26_Exceptions;
 
 import java.util.Scanner;
 
-public class Taks03 {
+public class Task03 {
     public static void main(String[] args) {
 
         //'ortalama' isminde bir method create ediniz ve int v  - int f  isminde 2 adet parametresi olsun.

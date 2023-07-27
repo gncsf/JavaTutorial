@@ -1,6 +1,6 @@
 package ch26_Exceptions;
 
-public class C04_NullPointer {
+public class C04_NullPointerException {
 
     public static void main(String[] args) {
 
@@ -29,7 +29,7 @@ public class C04_NullPointer {
         }
 
 
-        
+
 
     }
 }
